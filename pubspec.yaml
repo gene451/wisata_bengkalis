@@ -29,10 +29,6 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
-  my package:
-    git:
-      url: https://github.com/gene451/wisata_bengkalis.git
-      ref: main
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
